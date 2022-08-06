@@ -1,2 +1,2 @@
 # HA-ESPH-plant-watering
-Automated plant watering using esp32 - by Grieche
+Adaptation of "Automated plant watering using esp32" - by "Grieche" from https://community.home-assistant.io/t/atomated-plant-watering-using-esp32/412011/11
