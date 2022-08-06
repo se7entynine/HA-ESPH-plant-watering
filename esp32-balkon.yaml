@@ -129,7 +129,7 @@ switch:
     pin: 22
     name: "pumping"
     id: pump1
-    #restore_mode: ALWAYS_OFF
+    restore_mode: ALWAYS_OFF
     icon: "mdi:water-pump"
 
   - platform: gpio
